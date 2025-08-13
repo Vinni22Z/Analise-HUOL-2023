@@ -1,6 +1,6 @@
 # Análise das Internações Hospitalares no HUOL - 2023
 
-## Motivação
+
 O Hospital Universitário Onofre Lopes (HUOL), integrante da Rede Ebserh e vinculado à UFRN, é referência no atendimento hospitalar e no ensino médico no Rio Grande do Norte. Compreender o perfil das internações realizadas em 2023 é essencial para:
 <img src="Image/fot.jpg" alt="Fotodoprojeto" width="400"/>
 
